@@ -124,7 +124,7 @@ function generateSplash() {
 
 var io = require("socket.io")(server, {
   cors: {
-    origin: "http://localhost:4200",
+    origin: "https://fourhandpiano-7aa744b02a57.herokuapp.com/",
     // methods: ["GET", "POST"],
     // credentials: true,
   },
