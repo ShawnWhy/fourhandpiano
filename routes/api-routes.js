@@ -1,6 +1,6 @@
 // Requiring our models
 var db = require("../models");
-var connection = require("./connection");
+// var connection = require("./connection");
 
 const mockUsers = {
   "jim@joesrobotshop.com": {
